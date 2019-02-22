@@ -14,8 +14,8 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
-	"github.com/openatx/wdaproxy/connector"
-	"github.com/openatx/wdaproxy/web"
+	"github.com/stephanieDL/wdaproxy/connector"
+	"github.com/stephanieDL/wdaproxy/web"
 	"github.com/qiniu/log"
 )
 
